@@ -1,0 +1,15 @@
+.signUp{
+ color: #1977cc;
+}
+.signUp:hover{
+    color: #fff;
+    background-color: #1977cc !important;
+}
+
+.login{
+    color: #fff;
+    background-color: #1977cc !important;
+}
+#header{
+    position: fixed !important;
+}
